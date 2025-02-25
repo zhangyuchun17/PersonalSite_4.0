@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project 1</title>
+  <link rel="preload" href="../style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.9.4/mapbox-gl.css" rel="stylesheet">
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.9.4/mapbox-gl.js"></script>
+  <script src="./map.js" defer></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+    }
+
+    #content {
+      padding: 20px;
+      text-align: center;
+      flex: 0 0 auto; /* 固定文字部分，不允许被地图挤压 */
+    }
+
+    #map {
+      width: 80%;
+      height: 600px;
+      flex: 1 0 auto; /* 地图占用剩余空间 */
+    }
+  </style>
+</head>
+<body>
+  <div id="content">
+    <h1>The Colorful Book</h1>
+    <p>Is the distribution of resources equitable between communities dominated by LGBTQ groups and those dominated by cishet groups?</p>
+  </div>
+  <div id="map">Loading map...</div>
+</body>
+</html>

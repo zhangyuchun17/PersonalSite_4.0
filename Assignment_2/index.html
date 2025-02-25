@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Colorful Book</title>
+  <link rel="preload" href="./style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.9.4/mapbox-gl.css" rel="stylesheet">
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.9.4/mapbox-gl.js"></script>
+  <script src="./map.js" defer></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    .map-container {
+      width: 80%;
+      height: 600px; /* ✅ 确保有足够的高度 */
+      margin: 20px auto;
+      position: relative;
+    }
+
+    #map1, #map2 {
+      width: 100%;
+      height: 100%; /* ✅ 确保地图 `div` 正确占位 */
+    }
+
+    .legend {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: white;
+      padding: 10px;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.3);
+      font-size: 12px;
+      font-family: Arial, sans-serif;
+      z-index: 1000;
+    }
+
+  </style>
+</head>
+<body>
+  <div id="content">
+    <h1>The Colorful Book</h1>
+    <p>Is the distribution of resources equitable between communities dominated by LGBTQ groups and those dominated by cishet groups?</p>
+  </div>
+
+  <!-- ✅ 第一张地图 -->
+  <div class="map-container">
+    <div id="map1"></div>
+    <div id="legend1" class="legend"><strong>Neighborhood (Homo Percentage)</strong></div>
+  </div>
+
+  <!-- ✅ 第二张地图 -->
+  <div class="map-container">
+    <div id="map2"></div>
+  </div>
+  <div class="options">
+    <a href="../Assignment_1/index.html">Start Over</a>
+    <a href="../Assignment_3/index.html">LGBT+ Rights Index - Global Comparison </a>
+</div>
+</body>
+</html>

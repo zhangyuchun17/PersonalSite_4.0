@@ -1,0 +1,5096 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9295586,
+                    40.8151652
+                ]
+            },
+            "properties": {
+                "address": "141 East 140th Street",
+                "name": "The Warehouse",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9997094,
+                    40.7286979
+                ]
+            },
+            "properties": {
+                "address": "157 Bleecker Street",
+                "name": "The Slide",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0044174,
+                    40.7341153
+                ]
+            },
+            "properties": {
+                "address": "215 West 10th Street",
+                "name": "The Snake Pit",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00091,
+                    40.7307122
+                ]
+            },
+            "properties": {
+                "address": "130 West 3rd Street",
+                "name": "Tony Pastor’s Downtown / Gay Community Center",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99335007967744,
+                    40.73368435
+                ]
+            },
+            "properties": {
+                "address": "86 University Place",
+                "name": "The Bagatelle",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97416486040262,
+                    40.76482746603857
+                ]
+            },
+            "properties": {
+                "address": "768 Fifth Avenue",
+                "name": "The Plaza",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98877996106667,
+                    40.727917839372964
+                ]
+            },
+            "properties": {
+                "address": "105 Second Avenue",
+                "name": "The Saint",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9980984,
+                    40.7148782
+                ]
+            },
+            "properties": {
+                "address": "20½ Pell Street",
+                "name": "Esther Eng & Bo Bo Restaurant",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00011409999999,
+                    40.7306735
+                ]
+            },
+            "properties": {
+                "address": "129 MacDougal Street",
+                "name": "Eve’s Hangout",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9801517947023,
+                    40.67727505000001
+                ]
+            },
+            "properties": {
+                "address": "186 5th Avenue",
+                "name": "Rising Cafe",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01686401725568,
+                    40.70498010878957
+                ]
+            },
+            "properties": {
+                "address": "394-395 West Street",
+                "name": "Ramrod",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.008522,
+                    40.7421074
+                ]
+            },
+            "properties": {
+                "address": "500 West 14th Street",
+                "name": "Anvil",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9793341,
+                    40.7769663
+                ]
+            },
+            "properties": {
+                "address": "240 Columbus Avenue",
+                "name": "Arturo Martin Garcia & Victor’s Café Mural",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0076778,
+                    40.7404412
+                ]
+            },
+            "properties": {
+                "address": "835 Washington Street",
+                "name": "Mineshaft",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97281545302182,
+                    40.58918330532272
+                ]
+            },
+            "properties": {
+                "address": "135-141 West 3rd Street",
+                "name": "Mona’s / Village Purple Onion",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0767015,
+                    40.64226
+                ]
+            },
+            "properties": {
+                "address": "3 Hyatt Street",
+                "name": "Mayfair Bar & Grill",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00066102057463,
+                    40.73153911332353
+                ]
+            },
+            "properties": {
+                "address": "150 West 4th Street",
+                "name": "Mad Hatter / Pony Stable Inn",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9846546,
+                    40.7215253
+                ]
+            },
+            "properties": {
+                "address": "269 East Houston Street",
+                "name": "Meow Mix",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00806662100845,
+                    40.7354105
+                ]
+            },
+            "properties": {
+                "address": "342 West 11th Street",
+                "name": "Mother Courage",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9864499146401,
+                    40.7283678619241
+                ]
+            },
+            "properties": {
+                "address": "57 St. Mark's Place",
+                "name": "Club 57",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98988066828885,
+                    40.72643361765255
+                ]
+            },
+            "properties": {
+                "address": "82 East 4th Street",
+                "name": "Club 82",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00864088418446,
+                    40.71962759648349
+                ]
+            },
+            "properties": {
+                "address": "438-444 Hudson Street",
+                "name": "Cubby Hole / Henrietta Hudson",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0044820857111,
+                    40.7303206144503
+                ]
+            },
+            "properties": {
+                "address": "21 Seventh Avenue South",
+                "name": "Crazy Nanny’s",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9821128,
+                    40.7804391
+                ]
+            },
+            "properties": {
+                "address": "230 West 74th Street",
+                "name": "Continental Baths at the Ansonia Hotel",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0037475,
+                    40.7376427
+                ]
+            },
+            "properties": {
+                "address": "281 West 12th Street",
+                "name": "Cubbyhole",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98403651489842,
+                    40.72585325
+                ]
+            },
+            "properties": {
+                "address": "101 Avenue A",
+                "name": "Pyramid Cocktail Lounge",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99588005000001,
+                    40.72686305
+                ]
+            },
+            "properties": {
+                "address": "647 Broadway",
+                "name": "Pfaff’s",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00671656664743,
+                    40.7293728573681
+                ]
+            },
+            "properties": {
+                "address": "84 King Street",
+                "name": "Paradise Garage",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99906833584939,
+                    40.72970945
+                ]
+            },
+            "properties": {
+                "address": "82 West 3rd Street",
+                "name": "Pompier Restaurant / Tenth of Always / Bonnie & Clyde",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99931880870889,
+                    40.72860515
+                ]
+            },
+            "properties": {
+                "address": "206 Thompson Street",
+                "name": "Portofino",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.07852715579547,
+                    40.62799325
+                ]
+            },
+            "properties": {
+                "address": "70 Beach Street",
+                "name": "Park Villa II",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9914359,
+                    40.7555493
+                ]
+            },
+            "properties": {
+                "address": "301 West 39th Street",
+                "name": "La Escuelita",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8881646,
+                    40.745152
+                ]
+            },
+            "properties": {
+                "address": "77-02 Broadway",
+                "name": "Love Boat",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00044099733213,
+                    40.73396958443509
+                ]
+            },
+            "properties": {
+                "address": "51-53 Christopher Street",
+                "name": "Stonewall Inn",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98377859278992,
+                    40.7643461
+                ]
+            },
+            "properties": {
+                "address": "254 West 54th Street",
+                "name": "Studio 54 (originally Gallo Opera House)",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0027575740391,
+                    40.7341688745908
+                ]
+            },
+            "properties": {
+                "address": "116 Seventh Avenue South",
+                "name": "Stewart’s Cafeteria",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95021289473685,
+                    40.67602989473684
+                ]
+            },
+            "properties": {
+                "address": "1084 Bergen Street",
+                "name": "Starlite Lounge",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00127,
+                    40.729303
+                ]
+            },
+            "properties": {
+                "address": "189 Bleecker Street",
+                "name": "San Remo Café",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00355020274002,
+                    40.738558151718884
+                ]
+            },
+            "properties": {
+                "address": "48-52 Eighth Avenue",
+                "name": "Sea Colony",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91729021020411,
+                    40.67979585
+                ]
+            },
+            "properties": {
+                "address": "117 MacDougal Street",
+                "name": "Swing Rendezvous",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00163,
+                    40.7345357
+                ]
+            },
+            "properties": {
+                "address": "159 West 10th Street",
+                "name": "Julius’",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9507247611103,
+                    40.80218255
+                ]
+            },
+            "properties": {
+                "address": "114 West 116th Street",
+                "name": "Jimmie Daniels",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9005837,
+                    40.7457627
+                ]
+            },
+            "properties": {
+                "address": "63-14 Roosevelt Avenue",
+                "name": "Bum Bum Bar",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00077908006982,
+                    40.7292087
+                ]
+            },
+            "properties": {
+                "address": "183 Bleecker Street",
+                "name": "Black Rabbit",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00667257894737,
+                    40.7414072631579
+                ]
+            },
+            "properties": {
+                "address": "432 West 14th Street",
+                "name": "Bar Room 432 / Mother",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.08544361570296,
+                    40.57460450000001
+                ]
+            },
+            "properties": {
+                "address": "901 Father Capodanno Boulevard",
+                "name": "Beach Haven Bar",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00041401309241,
+                    40.7359159
+                ]
+            },
+            "properties": {
+                "address": "56 Greenwich Avenue",
+                "name": "Uncle Charlie’s",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99885782020579,
+                    40.7384827
+                ]
+            },
+            "properties": {
+                "address": "149 West 14th Street",
+                "name": "Kooky’s",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99370327137154,
+                    40.74030095
+                ]
+            },
+            "properties": {
+                "address": "53 West 19th Street",
+                "name": "Gianni’s",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9661283,
+                    40.8044959
+                ]
+            },
+            "properties": {
+                "address": "2850 Broadway",
+                "name": "Gay Activists Alliance “Demonstration of Affection” at the Gold Rail Tavern",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0099097,
+                    40.7323007
+                ]
+            },
+            "properties": {
+                "address": "180 Christopher Street",
+                "name": "Gay Activists Alliance Community Demonstration / Zap at Christopher’s End / Bailey-Holt House",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.88718231965879,
+                    40.7474938
+                ]
+            },
+            "properties": {
+                "address": "78-11 Roosevelt Avenue",
+                "name": "Friend’s Tavern",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9493241,
+                    40.5837436
+                ]
+            },
+            "properties": {
+                "address": "1901-1929 Emmons Avenue",
+                "name": "F.W.I.L. Lundy Brothers Restaurant",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98190187499999,
+                    40.777983875
+                ]
+            },
+            "properties": {
+                "address": "2068 Broadway",
+                "name": "Fifth Avenue Bar",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99625801763642,
+                    40.69511095
+                ]
+            },
+            "properties": {
+                "address": "80 Montague Street",
+                "name": "Heights Supper Club",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0028188,
+                    40.733201
+                ]
+            },
+            "properties": {
+                "address": "70 Grove Street",
+                "name": "Duchess / Grove / Pandora’s Box",
+                "category": "Bars, Clubs & Restaurants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9582801264258,
+                    40.82149669351857
+                ]
+            },
+            "properties": {
+                "address": "103-105 West 135th Street",
+                "name": "135th Street Branch, New York Public Library",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9139575565593,
+                    40.8587421
+                ]
+            },
+            "properties": {
+                "address": "2060 Sedgwick Avenue",
+                "name": "Gay Activists Alliance Zap at Gould Memorial Library",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9453686115296,
+                    40.80216134040268
+                ]
+            },
+            "properties": {
+                "address": "1000 Fifth Avenue",
+                "name": "Gay Activists Alliance Zap at the Metropolitan Museum of Art",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98756798840034,
+                    40.67112520000001
+                ]
+            },
+            "properties": {
+                "address": "211 8th Street",
+                "name": "Maurice Sendak Community School (Public School 118)",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97749918210806,
+                    40.7616124
+                ]
+            },
+            "properties": {
+                "address": "11 West 53rd Street",
+                "name": "Museum of Modern Art",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96166930093577,
+                    40.5867652
+                ]
+            },
+            "properties": {
+                "address": "2609 East 7th Street",
+                "name": "Margaret Mead Public School 209",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.83655315871795,
+                    40.86385075
+                ]
+            },
+            "properties": {
+                "address": "2545 Gunther Avenue",
+                "name": "Michelangelo Junior High School 144",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.77986743799626,
+                    40.71271265
+                ]
+            },
+            "properties": {
+                "address": "88-15 182nd Street",
+                "name": "Susan B. Anthony Academy (Intermediate School 238)",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9638473,
+                    40.8077772
+                ]
+            },
+            "properties": {
+                "address": "116th Street & Broadway",
+                "name": "Student Homophile League at Earl Hall, Columbia University",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.940542,
+                    40.814706
+                ]
+            },
+            "properties": {
+                "address": "515 Malcolm X Boulevard",
+                "name": "Schomburg Center for Research in Black Culture",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1045875961851,
+                    40.60913615
+                ]
+            },
+            "properties": {
+                "address": "715 Ocean Terrace",
+                "name": "Staten Island Community College",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.105108,
+                    40.64537125
+                ]
+            },
+            "properties": {
+                "address": "1000 Richmond Terrace",
+                "name": "Sailors’ Snug Harbor",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99352082556382,
+                    40.716184
+                ]
+            },
+            "properties": {
+                "address": "100 Hester Street",
+                "name": "Emma Lazarus High School for English Language Scholars",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97378314548189,
+                    40.7951176
+                ]
+            },
+            "properties": {
+                "address": "735 West End Avenue",
+                "name": "Emily Dickinson Public School 75",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00480319023684,
+                    40.726831
+                ]
+            },
+            "properties": {
+                "address": "40 Charlton Street",
+                "name": "Elisabeth Irwin High School, part of Little Red School House",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9532703536936,
+                    40.7702874
+                ]
+            },
+            "properties": {
+                "address": "411 East 76th Street",
+                "name": "Eleanor Roosevelt High School",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.931722,
+                    40.849321
+                ]
+            },
+            "properties": {
+                "address": "515 West 182nd Street",
+                "name": "Eleanor Roosevelt Junior High School 143",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92781424554161,
+                    40.6575178
+                ]
+            },
+            "properties": {
+                "address": "133 East 53rd Street",
+                "name": "Emma Lazarus Public School 268",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95192089795918,
+                    40.59110644897959
+                ]
+            },
+            "properties": {
+                "address": "2469 East 18th Street",
+                "name": "Dag Hammarskjöld Public School 254",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.86808724644084,
+                    40.75770785
+                ]
+            },
+            "properties": {
+                "address": "100-01 Northern Boulevard",
+                "name": "Langston Hughes Community Library and Cultural Center, Queens Public Library",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.81611164480677,
+                    40.7359576
+                ]
+            },
+            "properties": {
+                "address": "65-30 Kissena Boulevard",
+                "name": "Lucille Kyvallos Court",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0018114952953,
+                    40.72919675
+                ]
+            },
+            "properties": {
+                "address": "196 Bleecker Street",
+                "name": "Little Red School House",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9993445718446,
+                    40.72500778815228
+                ]
+            },
+            "properties": {
+                "address": "127B Prince Street",
+                "name": "Leslie-Lohman Gallery (now Leslie-Lohman Project Space)",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91393265452892,
+                    40.65157225
+                ]
+            },
+            "properties": {
+                "address": "9301 Avenue B",
+                "name": "Langston Hughes Public School 233",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7548986,
+                    40.7078826
+                ]
+            },
+            "properties": {
+                "address": "203-02 109th Avenue",
+                "name": "Langston Hughes Public School 134",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.76531733373919,
+                    40.7033321
+                ]
+            },
+            "properties": {
+                "address": "190-20 109th Road",
+                "name": "Lorraine Hansberry Public School 118",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.86286385962171,
+                    40.74201385
+                ]
+            },
+            "properties": {
+                "address": "98-50 50th Avenue",
+                "name": "Leonardo da Vinci Intermediate School 61",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8802805,
+                    40.8391827
+                ]
+            },
+            "properties": {
+                "address": "1970 West Farms Road",
+                "name": "Lorraine Hansberry Academy Public School 214",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9098212698718,
+                    40.8488938
+                ]
+            },
+            "properties": {
+                "address": "1871 Walton Avenue",
+                "name": "Langston Hughes Public School 236",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9777358589643,
+                    40.69447285
+                ]
+            },
+            "properties": {
+                "address": "93 St. Edwards Street",
+                "name": "Walt Whitman Branch, Brooklyn Public Library",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9538149298336,
+                    40.64836425
+                ]
+            },
+            "properties": {
+                "address": "72 Veronica Place",
+                "name": "Walt Whitman Middle School 246",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9993712074913,
+                    40.7373273
+                ]
+            },
+            "properties": {
+                "address": "146 West 13th Street",
+                "name": "City and Country School",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94114315559167,
+                    40.81484215
+                ]
+            },
+            "properties": {
+                "address": "104 West 136th Street",
+                "name": "Countee Cullen Branch, New York Public Library",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94086722955089,
+                    40.8213013
+                ]
+            },
+            "properties": {
+                "address": "244 West 144th Street",
+                "name": "Countee Cullen Public School 194",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9733215,
+                    40.7813974
+                ]
+            },
+            "properties": {
+                "address": "200 Central Park West",
+                "name": "American Museum of Natural History",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.16268775068684,
+                    40.6105878
+                ]
+            },
+            "properties": {
+                "address": "55 Merrill Avenue",
+                "name": "Alice Austen Public School 60",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9493988,
+                    40.79843
+                ]
+            },
+            "properties": {
+                "address": "20 West 112th Street",
+                "name": "Alain L. Locke School of Arts and Engineering (Public School 185)",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.87313338576763,
+                    40.68932475
+                ]
+            },
+            "properties": {
+                "address": "858 Jamaica Avenue",
+                "name": "Abraham Lincoln Public School 7",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96916820487077,
+                    40.58250475
+                ]
+            },
+            "properties": {
+                "address": "2800 Ocean Parkway",
+                "name": "Abraham Lincoln High School",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98585867967074,
+                    40.7396765
+                ]
+            },
+            "properties": {
+                "address": "112 East 23rd Street",
+                "name": "Institute for the Protection of Lesbian and Gay Youth",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97430375753298,
+                    40.7792489
+                ]
+            },
+            "properties": {
+                "address": "170 Central Park West",
+                "name": "Portrait of an Unidentified Woman (Lord Cornbury), New-York Historical Society",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0771215,
+                    40.6430207
+                ]
+            },
+            "properties": {
+                "address": "130 Stuyvesant Place",
+                "name": "Richmond College",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00276366525813,
+                    40.74336655
+                ]
+            },
+            "properties": {
+                "address": "351 West 18th Street",
+                "name": "James Baldwin School",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90265606788392,
+                    40.8217383
+                ]
+            },
+            "properties": {
+                "address": "900 Tinton Avenue",
+                "name": "Jane Addams High School for Academic Careers",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9926351,
+                    40.7299037
+                ]
+            },
+            "properties": {
+                "address": "2 Astor Place",
+                "name": "Harvey Milk High School",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00276366525813,
+                    40.74336655
+                ]
+            },
+            "properties": {
+                "address": "351 West 18th Street",
+                "name": "Bayard Rustin Educational Complex",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9500875039007,
+                    40.6903629
+                ]
+            },
+            "properties": {
+                "address": "114 Kosciuszko Street",
+                "name": "Benjamin Banneker Public School 256",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96876908029023,
+                    40.6954521
+                ]
+            },
+            "properties": {
+                "address": "77 Clinton Avenue",
+                "name": "Benjamin Banneker Academy for Community Development",
+                "category": "Cultural & Educational"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00312128806283,
+                    40.74303895
+                ]
+            },
+            "properties": {
+                "address": "356 West 18th Street",
+                "name": "Callen-Lorde Community Health Center",
+                "category": "Medical Facilities"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99667564422015,
+                    40.7438497
+                ]
+            },
+            "properties": {
+                "address": "219 West 22nd Street",
+                "name": "Dr. Jeanne Hoff Residence & Office",
+                "category": "Medical Facilities"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97617521798375,
+                    40.73986580093356
+                ]
+            },
+            "properties": {
+                "address": "462 First Avenue",
+                "name": "Bellevue Hospital",
+                "category": "Medical Facilities"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92201797294092,
+                    40.6940345
+                ]
+            },
+            "properties": {
+                "address": "58 Bleecker Street",
+                "name": "New York Infirmary for Indigent Women & Children",
+                "category": "Medical Facilities"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.987674989533,
+                    40.71358412881708
+                ]
+            },
+            "properties": {
+                "address": "263-267 Henry Street",
+                "name": "Henry Street Settlement",
+                "category": "Medical Facilities"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9910887,
+                    40.7208124
+                ]
+            },
+            "properties": {
+                "address": "45 Rivington Street",
+                "name": "Rivington House",
+                "category": "Medical Facilities"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99666852888558,
+                    40.73471886846395
+                ]
+            },
+            "properties": {
+                "address": "143-147 West 11th Street",
+                "name": "St. Vincent’s Hospital Manhattan",
+                "category": "Medical Facilities"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.995478,
+                    40.7369723
+                ]
+            },
+            "properties": {
+                "address": "39 West 14th Street",
+                "name": "Leslie Feinberg Lecture & Reading at the International Action Center",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00319235,
+                    40.73643305
+                ]
+            },
+            "properties": {
+                "address": "247 West 11th Street",
+                "name": "Liberation House",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00104894383719,
+                    40.7380084
+                ]
+            },
+            "properties": {
+                "address": "208 West 13th Street",
+                "name": "LGBT Community Center",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98035738358661,
+                    40.66186845
+                ]
+            },
+            "properties": {
+                "address": "484 14th Street",
+                "name": "Lesbian Herstory Archives",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0025156,
+                    40.7424139
+                ]
+            },
+            "properties": {
+                "address": "333 West 17th Street",
+                "name": "Lavender Menace Action at Second Congress to Unite Women",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98361431781021,
+                    40.6689039
+                ]
+            },
+            "properties": {
+                "address": "410 6th Avenue",
+                "name": "Park Slope United Methodist Church",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99034652280974,
+                    40.74330215000001
+                ]
+            },
+            "properties": {
+                "address": "24 West 25th Street",
+                "name": "HoMoVISIONES",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94298406163513,
+                    40.81469295
+                ]
+            },
+            "properties": {
+                "address": "180 West 135th Street",
+                "name": "Harlem YMCA",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00126086956523,
+                    40.74105026086956
+                ]
+            },
+            "properties": {
+                "address": "269 West 16th Street",
+                "name": "Gilbert Baker & “Raise the Rainbow” Workshop",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00103717857138,
+                    40.72457095
+                ]
+            },
+            "properties": {
+                "address": "99 Wooster Street",
+                "name": "Gay Activists Alliance Firehouse",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9962433063915,
+                    40.7374925245638
+                ]
+            },
+            "properties": {
+                "address": "530 Sixth Avenue / 69 West 14th Street",
+                "name": "Gay Liberation Front at Alternate U.",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9926584421424,
+                    40.6933157
+                ]
+            },
+            "properties": {
+                "address": "99 Clinton Street",
+                "name": "Gay Alliance of Brooklyn at Spencer Memorial Church",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9928521,
+                    40.7284932
+                ]
+            },
+            "properties": {
+                "address": "404 Lafayette Street",
+                "name": "WeWah & BarCheeAmpe at the American Indian Community House",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99873703978659,
+                    40.74313335
+                ]
+            },
+            "properties": {
+                "address": "243 West 20th Street",
+                "name": "Women’s Liberation Center",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00181218951693,
+                    40.73248770353403
+                ]
+            },
+            "properties": {
+                "address": "135 & 133 West 4th Street",
+                "name": "Washington Square United Methodist Church & Parish House",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98054125667089,
+                    40.72791981699214
+                ]
+            },
+            "properties": {
+                "address": "125-129 East 11th Street",
+                "name": "Webster Hall & Annex",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00582338242914,
+                    40.74087409387386
+                ]
+            },
+            "properties": {
+                "address": "37 Ninth Avenue",
+                "name": "West Side Discussion Group Center",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0086194,
+                    40.73687996
+                ]
+            },
+            "properties": {
+                "address": "57 Bethune Street",
+                "name": "Westbeth: Congregation Beit Simchat Torah",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0044757244451,
+                    40.7314976884209
+                ]
+            },
+            "properties": {
+                "address": "54 Seventh Avenue South",
+                "name": "Women’s Coffeehouse",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99474190103885,
+                    40.734005457575456
+                ]
+            },
+            "properties": {
+                "address": "41 Fifth Avenue",
+                "name": "Erickson Educational Foundation New York Office",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9998240005119,
+                    40.72875395
+                ]
+            },
+            "properties": {
+                "address": "159 Bleecker Street",
+                "name": "Founding of The League at the Amato Opera Theater",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99747773204408,
+                    40.57512409907854
+                ]
+            },
+            "properties": {
+                "address": "135-139 West 31st Street",
+                "name": "Father Mychal F. Judge at St. Francis of Assisi Church & Friary",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98717442857144,
+                    40.75691779591837
+                ]
+            },
+            "properties": {
+                "address": "220 West 43rd Street",
+                "name": "New York Area Council of the Mattachine Society, Inc. at Avlon Studios",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99401389810947,
+                    40.7362484716189
+                ]
+            },
+            "properties": {
+                "address": "80 Fifth Avenue",
+                "name": "National Gay Task Force Headquarters",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9456145,
+                    40.811779
+                ]
+            },
+            "properties": {
+                "address": "170 West 130th Street",
+                "name": "National Headquarters for the 1963 March on Washington for Jobs and Freedom",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00044099733213,
+                    40.73396958443509
+                ]
+            },
+            "properties": {
+                "address": "149-155 Christopher Street",
+                "name": "Village AIDS Memorial at St. Veronica’s Roman Catholic Church",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99020441641889,
+                    40.75386315
+                ]
+            },
+            "properties": {
+                "address": "240 West 38th Street",
+                "name": "Corduroy Club",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99870284164412,
+                    40.74953537089496
+                ]
+            },
+            "properties": {
+                "address": "296 Ninth Avenue",
+                "name": "Church of the Holy Apostles",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92011895944117,
+                    40.75419984080057
+                ]
+            },
+            "properties": {
+                "address": "81-10 35th Avenue",
+                "name": "Community United Methodist Church",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9892435,
+                    40.7435762
+                ]
+            },
+            "properties": {
+                "address": "1133 Broadway",
+                "name": "Mattachine Society & Daughters of Bilitis Offices",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99752585158679,
+                    40.75532395
+                ]
+            },
+            "properties": {
+                "address": "446 West 36th Street",
+                "name": "Metropolitan Community Church of New York",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0003904996534,
+                    40.73815655
+                ]
+            },
+            "properties": {
+                "address": "201 West 13th Street",
+                "name": "Metropolitan-Duane United Methodist Church",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00241217552374,
+                    40.73381005
+                ]
+            },
+            "properties": {
+                "address": "59 Christopher Street",
+                "name": "Mattachine Society Office",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00064941311463,
+                    40.73285520748386
+                ]
+            },
+            "properties": {
+                "address": "371 Sixth Avenue",
+                "name": "St. Joseph’s Roman Catholic Church",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91177055,
+                    40.7590473
+                ]
+            },
+            "properties": {
+                "address": "46-09 31st Avenue",
+                "name": "St. Andrew’s Episcopal Church",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0772814127487,
+                    40.642297885020966
+                ]
+            },
+            "properties": {
+                "address": "25 Hyatt Street",
+                "name": "Staten Island AIDS Task Force & EAGLE Headquarters",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.998307,
+                    40.730295
+                ]
+            },
+            "properties": {
+                "address": "55 Washington Square South",
+                "name": "Judson Memorial Church",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96301342280043,
+                    40.81206725
+                ]
+            },
+            "properties": {
+                "address": "490 Riverside Drive",
+                "name": "Riverside Church",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97692895487805,
+                    40.765454
+                ]
+            },
+            "properties": {
+                "address": "106 Central Park South",
+                "name": "Barbizon-Plaza Hotel",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98542685349352,
+                    40.66976655
+                ]
+            },
+            "properties": {
+                "address": "421 5th Avenue",
+                "name": "Brooklyn Women’s Martial Arts",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0004405621921,
+                    40.72573795
+                ]
+            },
+            "properties": {
+                "address": "141 Prince Street",
+                "name": "Daughters of Bilitis Center",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9734017,
+                    40.6868452
+                ]
+            },
+            "properties": {
+                "address": "85 South Oxford Street",
+                "name": "Audre Lorde Project",
+                "category": "Organization & Community Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00582338242914,
+                    40.74087409387386
+                ]
+            },
+            "properties": {
+                "address": "37 Ninth Avenue",
+                "name": "Les Ballets Trockadero de Monte Carlo Debut at the West Side Discussion Group Center",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98843804512987,
+                    40.7562126
+                ]
+            },
+            "properties": {
+                "address": "234 West 42nd Street",
+                "name": "Liberty Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.986226921534,
+                    40.731142882271854
+                ]
+            },
+            "properties": {
+                "address": "181-189 Second Avenue",
+                "name": "Louis N. Jaffe Art Theater / Club 181 / Phoenix Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9842797,
+                    40.7716402
+                ]
+            },
+            "properties": {
+                "address": "Lincoln Center",
+                "name": "Lincoln Center: Metropolitan Opera House",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97806611275757,
+                    40.65089685
+                ]
+            },
+            "properties": {
+                "address": "74 East 4th Street",
+                "name": "La MaMa Experimental Theatre Club",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99585740357277,
+                    40.76476284169385
+                ]
+            },
+            "properties": {
+                "address": "220-228 West 48th Street",
+                "name": "Longacre Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98251243876287,
+                    40.75668817697768
+                ]
+            },
+            "properties": {
+                "address": "149-157 West 45th Street",
+                "name": "Lyceum Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98743904444,
+                    40.7570365311935
+                ]
+            },
+            "properties": {
+                "address": "213 West 42nd Street / 220 West 43rd Street",
+                "name": "Lyric Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98696639245696,
+                    40.75997529999999
+                ]
+            },
+            "properties": {
+                "address": "256 West 47th Street",
+                "name": "Lena Horne Theater (originally Mansfield Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98247825718641,
+                    40.75748473293044
+                ]
+            },
+            "properties": {
+                "address": "203-217 West 46th Street",
+                "name": "Lunt-Fontanne Theater (originally Globe Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9842797,
+                    40.7716402
+                ]
+            },
+            "properties": {
+                "address": "Lincoln Center",
+                "name": "Lincoln Center: New York State Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9842797,
+                    40.7716402
+                ]
+            },
+            "properties": {
+                "address": "Lincoln Center",
+                "name": "Lincoln Center: Philharmonic Hall",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9438725594847,
+                    40.7791392
+                ]
+            },
+            "properties": {
+                "address": "1750 York Avenue",
+                "name": "Greg Louganis & Gay Games IV at Asphalt Green AquaCenter",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9163179318781,
+                    40.8723442658117
+                ]
+            },
+            "properties": {
+                "address": "West 218th Street at Park Terrace West",
+                "name": "Gay Games IV Opening Ceremony at Wien Stadium",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98712810526315,
+                    40.75853431578947
+                ]
+            },
+            "properties": {
+                "address": "234 West 45th Street",
+                "name": "Gerald Schoenfeld Theater (originally Plymouth Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97999649099806,
+                    40.76000200734567
+                ]
+            },
+            "properties": {
+                "address": "1260 Sixth Avenue",
+                "name": "Gay Activists Alliance Zap at Radio City Music Hall",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9817852930615,
+                    40.72199205
+                ]
+            },
+            "properties": {
+                "address": "236 East 3rd Street",
+                "name": "Nuyorican Poets Café",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9796239,
+                    40.7637566
+                ]
+            },
+            "properties": {
+                "address": "131 West 55th Street",
+                "name": "New York City Center",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98830234615221,
+                    40.7554837
+                ]
+            },
+            "properties": {
+                "address": "208 West 41st Street",
+                "name": "Nederlander Theater (originally National Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98806312043041,
+                    40.75599995
+                ]
+            },
+            "properties": {
+                "address": "214 West 42nd Street",
+                "name": "New Amsterdam Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98745245050083,
+                    40.7565592
+                ]
+            },
+            "properties": {
+                "address": "209 West 42nd Street",
+                "name": "New Victory Theater (originally Theatre Republic)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99586264999999,
+                    40.76805665000001
+                ]
+            },
+            "properties": {
+                "address": "244-254 West 52nd Street",
+                "name": "Neil Simon Theater (originally Alvin Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.89407044876147,
+                    40.8823463
+                ]
+            },
+            "properties": {
+                "address": "67 Stevenson Place",
+                "name": "Denishawn House",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95831981633553,
+                    40.81652255029256
+                ]
+            },
+            "properties": {
+                "address": "160-164 West 129th Street",
+                "name": "Drag Balls at Imperial Lodge of Elks",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92316880011057,
+                    40.69286015
+                ]
+            },
+            "properties": {
+                "address": "10 Bleecker Street",
+                "name": "Medusa’s Revenge",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98251243876287,
+                    40.75668817697768
+                ]
+            },
+            "properties": {
+                "address": "239-247 West 45th Street",
+                "name": "Music Box Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98019992375937,
+                    40.7548928116619
+                ]
+            },
+            "properties": {
+                "address": "245-257 West 44th Street",
+                "name": "Majestic Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9840011020408,
+                    40.76231618367347
+                ]
+            },
+            "properties": {
+                "address": "217 West 51st Street",
+                "name": "Mark Hellinger Theater (originally Hollywood Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.84278900425835,
+                    40.74054845000001
+                ]
+            },
+            "properties": {
+                "address": "Flushing Meadows-Corona Park",
+                "name": "USTA Billie Jean King National Tennis Center",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8902093,
+                    40.8172019
+                ]
+            },
+            "properties": {
+                "address": "841 Barretto Street",
+                "name": "Bronx Academy of Arts and Dance (BAAD!)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.983800660177,
+                    40.756644
+                ]
+            },
+            "properties": {
+                "address": "111 West 44th Street",
+                "name": "Belasco Theater (originally Stuyvesant Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98251243876287,
+                    40.75668817697768
+                ]
+            },
+            "properties": {
+                "address": "242-250 West 45th Street",
+                "name": "Bernard B. Jacobs Theater (originally Royale Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98709028360129,
+                    40.75837300000001
+                ]
+            },
+            "properties": {
+                "address": "222 West 45th Street",
+                "name": "Booth Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99497759458204,
+                    40.76111546282758
+                ]
+            },
+            "properties": {
+                "address": "235-243 West 44th Street",
+                "name": "Broadhurst Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98335504506701,
+                    40.76339815
+                ]
+            },
+            "properties": {
+                "address": "1681 Broadway",
+                "name": "Broadway Theater (interior)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98700765640905,
+                    40.75964865
+                ]
+            },
+            "properties": {
+                "address": "235 West 46th Street",
+                "name": "Billy Rose’s Diamond Horseshoe Nightclub",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97992907526887,
+                    40.76526824630347
+                ]
+            },
+            "properties": {
+                "address": "881 Seventh Avenue",
+                "name": "Carnegie Hall",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00257675193912,
+                    40.73142805000001
+                ]
+            },
+            "properties": {
+                "address": "31 Cornelia Street",
+                "name": "Caffe Cino",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.001917,
+                    40.7328395
+                ]
+            },
+            "properties": {
+                "address": "1 Sheridan Square",
+                "name": "Café Society / Ridiculous Theatrical Company",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97546139655509,
+                    40.67451121810844
+                ]
+            },
+            "properties": {
+                "address": "99 Seventh Avenue South",
+                "name": "Circle Repertory Company Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94999478832457,
+                    40.8100895
+                ]
+            },
+            "properties": {
+                "address": "253 West 125th Street",
+                "name": "Apollo Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99318767368999,
+                    40.74194981762194
+                ]
+            },
+            "properties": {
+                "address": "682 Sixth Avenue",
+                "name": "Asociación de Arte Latinoamericano (ADAL)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98921084892254,
+                    40.75925315
+                ]
+            },
+            "properties": {
+                "address": "302 West 45th Street",
+                "name": "Al Hirschfeld Theater (originally Martin Beck Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97927258831619,
+                    40.75859202746702
+                ]
+            },
+            "properties": {
+                "address": "215-223 West 49th Street",
+                "name": "Ambassador Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98761302040816,
+                    40.75641
+                ]
+            },
+            "properties": {
+                "address": "223 West 42nd Street",
+                "name": "Apollo Theater (42nd Street)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98808330612245,
+                    40.75642
+                ]
+            },
+            "properties": {
+                "address": "236 West 42nd Street",
+                "name": "AMC Empire 25 Theater (originally Eltinge Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99586264999999,
+                    40.76805665000001
+                ]
+            },
+            "properties": {
+                "address": "243-259 West 52nd Street",
+                "name": "August Wilson Theater (originally Guild Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98350453470516,
+                    40.7616856
+                ]
+            },
+            "properties": {
+                "address": "1634 Broadway",
+                "name": "Winter Garden Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.846757,
+                    40.719857
+                ]
+            },
+            "properties": {
+                "address": "1 Tennis Place",
+                "name": "West Side Tennis Club",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9918716632246,
+                    40.72723289471825
+                ]
+            },
+            "properties": {
+                "address": "59-61 East 4th Street",
+                "name": "WOW Café Theatre / Lower East Side Printshop",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0085005,
+                    40.7368831
+                ]
+            },
+            "properties": {
+                "address": "55 Bethune Street",
+                "name": "Westbeth: Merce Cunningham Dance Company",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98558466016627,
+                    40.760681
+                ]
+            },
+            "properties": {
+                "address": "219 West 48th Street",
+                "name": "Walter Kerr Theater (originally Ritz Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99497759458204,
+                    40.76111546282758
+                ]
+            },
+            "properties": {
+                "address": "238-244 West 44th Street",
+                "name": "Helen Hayes Theater (originally Little Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99497759458204,
+                    40.76111546282758
+                ]
+            },
+            "properties": {
+                "address": "139-141 West 44th Street",
+                "name": "Hudson Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98613511549917,
+                    40.76012215
+                ]
+            },
+            "properties": {
+                "address": "243 West 47th Street",
+                "name": "Ethel Barrymore Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98574035074438,
+                    40.76110465
+                ]
+            },
+            "properties": {
+                "address": "230 West 49th Street",
+                "name": "Eugene O’Neill Theater (originally Forrest Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98229564722129,
+                    40.76373866154268
+                ]
+            },
+            "properties": {
+                "address": "1697-1699 Broadway",
+                "name": "Ed Sullivan Theater (originally Hammerstein’s Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98951450696877,
+                    40.72945328592458
+                ]
+            },
+            "properties": {
+                "address": "4 St. Mark's Place",
+                "name": "Tempo Playhouse / Key Theater / New Bowery Theater / Bridge Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98811924139545,
+                    40.75715565
+                ]
+            },
+            "properties": {
+                "address": "227 West 42nd Street",
+                "name": "Todd Haimes Theater (interior) (originally Selwyn Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98750865306123,
+                    40.756366
+                ]
+            },
+            "properties": {
+                "address": "219 West 42nd Street",
+                "name": "Times Square Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98712160158794,
+                    40.7591227
+                ]
+            },
+            "properties": {
+                "address": "249 West 45th Street",
+                "name": "Imperial Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98753669387754,
+                    40.75807620408163
+                ]
+            },
+            "properties": {
+                "address": "221 West 44th Street",
+                "name": "Shubert Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98159264969294,
+                    40.75793059727276
+                ]
+            },
+            "properties": {
+                "address": "261-265 West 47th Street",
+                "name": "Samuel J. Friedman Theater (originally Biltmore Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98815839177944,
+                    40.75798445
+                ]
+            },
+            "properties": {
+                "address": "246 West 44th Street",
+                "name": "St. James Theater (originally Erlanger Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99465898374702,
+                    40.76017852100976
+                ]
+            },
+            "properties": {
+                "address": "124-130 West 43rd Street",
+                "name": "Stephen Sondheim Theater (originally Henry Miller’s Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90894443357766,
+                    40.87509512910108
+                ]
+            },
+            "properties": {
+                "address": "1564-1566 Broadway",
+                "name": "Palace Theater (interior)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90209866526786,
+                    40.82030175
+                ]
+            },
+            "properties": {
+                "address": "851 Prospect Avenue",
+                "name": "Prospect Theater",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98798460640043,
+                    40.7587046
+                ]
+            },
+            "properties": {
+                "address": "252 West 45th Street",
+                "name": "John Golden Theater (originally Theatre Masque)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99585740357277,
+                    40.76476284169385
+                ]
+            },
+            "properties": {
+                "address": "138-146 West 48th Street",
+                "name": "James Earl Jones Theater (originally Cort Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9789531,
+                    40.7847805
+                ]
+            },
+            "properties": {
+                "address": "2248 Broadway",
+                "name": "Richard Hunt at Reeves Teletape Studios",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98247825718641,
+                    40.75748473293044
+                ]
+            },
+            "properties": {
+                "address": "226-236 West 46th Street",
+                "name": "Richard Rodgers Theater (originally Chanin’s 46th Street Theater)",
+                "category": "Performance Venues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00782480568515,
+                    40.7343582
+                ]
+            },
+            "properties": {
+                "address": "135 Charles Street",
+                "name": "6th Police Precinct Station House",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9534762,
+                    40.583052
+                ]
+            },
+            "properties": {
+                "address": "Emmons Avenue & Shore Boulevard",
+                "name": "Holocaust Memorial Park",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01935151300489,
+                    40.6928843872046
+                ]
+            },
+            "properties": {
+                "address": "Castle Williams & Fort Jay",
+                "name": "Henry Gerber on Governors Island",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.79548371995936,
+                    40.71767028107536
+                ]
+            },
+            "properties": {
+                "address": "170th Street and Grand Concourse",
+                "name": "Bronx Pride March",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96976494062946,
+                    40.74930525
+                ]
+            },
+            "properties": {
+                "address": "Ralph Bunche Park",
+                "name": "Bayard Rustin Plaque",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.983546,
+                    40.6726372
+                ]
+            },
+            "properties": {
+                "address": "5th Avenue & 3rd Street",
+                "name": "Brooklyn Pride March",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9973894048242,
+                    40.6973713
+                ]
+            },
+            "properties": {
+                "address": "Brooklyn Heights Promenade",
+                "name": "Brooklyn Heights Promenade",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98332185737353,
+                    40.76364559035971
+                ]
+            },
+            "properties": {
+                "address": "Sidewalk across from 1681 Broadway",
+                "name": "The Heat is On ‘Miss Saigon’ Demonstrations Outside the Broadway Theater",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9717113055354,
+                    40.77275208844125
+                ]
+            },
+            "properties": {
+                "address": "Literary Walk, The Mall, Central Park",
+                "name": "Fitz-Greene Halleck Monument",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98875165345787,
+                    40.7536908117541
+                ]
+            },
+            "properties": {
+                "address": "Seventh Avenue (35th to 41st Streets)",
+                "name": "Fashion Walk of Fame",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97558388514719,
+                    40.7813587
+                ]
+            },
+            "properties": {
+                "address": "Theodore Roosevelt Park",
+                "name": "Margaret Mead Green",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9622447,
+                    40.7209531
+                ]
+            },
+            "properties": {
+                "address": "90 Kent Avenue",
+                "name": "Marsha P. Johnson State Park",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90391727269025,
+                    40.85538613934059
+                ]
+            },
+            "properties": {
+                "address": "Morris Avenue & East 181st Street",
+                "name": "Mabel Hampton Garden",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9052792,
+                    40.7001741
+                ]
+            },
+            "properties": {
+                "address": "Myrtle Avenue & Cornelia Street",
+                "name": "March for Truth",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9717113055354,
+                    40.77275208844125
+                ]
+            },
+            "properties": {
+                "address": "Literary Walk, The Mall, Central Park",
+                "name": "Susan B. Anthony, Women’s Rights Pioneers Monument",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92242619665649,
+                    40.76794724030077
+                ]
+            },
+            "properties": {
+                "address": "The Park at Athens Square",
+                "name": "Socrates & Sophocles Statues",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.936282,
+                    40.7675211
+                ]
+            },
+            "properties": {
+                "address": "32-01 Vernon Boulevard",
+                "name": "Socrates Sculpture Park",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9635768,
+                    40.6978405
+                ]
+            },
+            "properties": {
+                "address": "Flushing Avenue & Steuben Street",
+                "name": "Steuben Playground",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98032135744812,
+                    40.76084567530943
+                ]
+            },
+            "properties": {
+                "address": "1281 Sixth Avenue",
+                "name": "Scott Burton & the Equitable Center",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92075410339407,
+                    40.74708679537878
+                ]
+            },
+            "properties": {
+                "address": "43rd Street & Skillman Avenue",
+                "name": "St. Pat’s for All Parade",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0668076,
+                    40.5903825
+                ]
+            },
+            "properties": {
+                "address": "South Beach",
+                "name": "South Beach, Franklin D. Roosevelt Boardwalk & Parking Lots",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98645660182663,
+                    40.75679683524587
+                ]
+            },
+            "properties": {
+                "address": "West 43rd Street (Between Seventh and Eighth Avenues)",
+                "name": "Anti-Police Brutality Protest in Response to the Blue’s Bar Raids",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9738767,
+                    40.7792732
+                ]
+            },
+            "properties": {
+                "address": "Central Park West & West 77th Street",
+                "name": "Abraham Lincoln Statue",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97360809378053,
+                    40.764117
+                ]
+            },
+            "properties": {
+                "address": "Grand Army Plaza",
+                "name": "Abraham Lincoln Sculpture",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96457917753813,
+                    40.78104850402318
+                ]
+            },
+            "properties": {
+                "address": "East Drive at West 83rd Street, Central Park",
+                "name": "Alexander Hamilton Monument",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97108902901994,
+                    40.6617743
+                ]
+            },
+            "properties": {
+                "address": "Prospect Park",
+                "name": "Abraham Lincoln Monument",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9903229099048,
+                    40.7360371
+                ]
+            },
+            "properties": {
+                "address": "Union Square Park",
+                "name": "Abraham Lincoln Monument",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00571092680255,
+                    40.73706859419267
+                ]
+            },
+            "properties": {
+                "address": "Hudson & Bethune Streets",
+                "name": "Arthur W. Strickler Triangle",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.06302908219696,
+                    40.61513175
+                ]
+            },
+            "properties": {
+                "address": "2 Hylan Boulevard",
+                "name": "Alice Austen Park",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93765747323661,
+                    40.81287612390447
+                ]
+            },
+            "properties": {
+                "address": "Fifth Avenue & East 135th Street",
+                "name": "Abraham Lincoln Playground",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95054152832213,
+                    40.8232766618056
+                ]
+            },
+            "properties": {
+                "address": "Hamilton Place & West 141st Street",
+                "name": "Alexander Hamilton Playground",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0948411707627,
+                    40.62701135
+                ]
+            },
+            "properties": {
+                "address": "Silver Lake Park",
+                "name": "Audre Lorde Walk",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01109741682158,
+                    40.70760891928238
+                ]
+            },
+            "properties": {
+                "address": "Wall Street & Broadway / 11 Wall Street",
+                "name": "ACT UP Demonstrations on Wall Street",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93767376759827,
+                    40.81294923712828
+                ]
+            },
+            "properties": {
+                "address": "East 135th Street & Fifth Avenue",
+                "name": "Ali Forney Murder Location",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99760019608271,
+                    40.7308955
+                ]
+            },
+            "properties": {
+                "address": "Washington Square Park",
+                "name": "Washington Square Park",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97667358188076,
+                    40.71953175742397
+                ]
+            },
+            "properties": {
+                "address": "East Houston Street & Baruch Drive",
+                "name": "Wald Playground",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98978054750785,
+                    40.69993391632054
+                ]
+            },
+            "properties": {
+                "address": "Cadman Plaza East",
+                "name": "Walt Whitman Park",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.86418878106797,
+                    40.89575404999999
+                ]
+            },
+            "properties": {
+                "address": "517 East 233rd Street",
+                "name": "Woodlawn Cemetery",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.770509945,
+                    40.8526356
+                ]
+            },
+            "properties": {
+                "address": "Hart Island",
+                "name": "City Cemetery, Hart Island",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9653627406542,
+                    40.7827725
+                ]
+            },
+            "properties": {
+                "address": "Central Park",
+                "name": "Central Park",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00238686901567,
+                    40.7335823
+                ]
+            },
+            "properties": {
+                "address": "Christopher Park",
+                "name": "Christopher Park / Stonewall National Monument",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00586977687581,
+                    40.71286785
+                ]
+            },
+            "properties": {
+                "address": "City Hall Park",
+                "name": "City Hall Park",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01577307510607,
+                    40.702786
+                ]
+            },
+            "properties": {
+                "address": "Battery Park",
+                "name": "Emma Lazarus Memorial Plaque",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96865959357001,
+                    40.8068797
+                ]
+            },
+            "properties": {
+                "address": "Riverside Park",
+                "name": "Eleanor Roosevelt Monument",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93689140872874,
+                    40.69258691028963
+                ]
+            },
+            "properties": {
+                "address": "Kosciuszko Street & Lewis Avenue",
+                "name": "Eleanor Roosevelt Playground",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9653627406542,
+                    40.7827725
+                ]
+            },
+            "properties": {
+                "address": "Central Park",
+                "name": "Emma Stebbins & 'Angel of the Waters'",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00238686901567,
+                    40.7335823
+                ]
+            },
+            "properties": {
+                "address": "Christopher Park",
+                "name": "Elmer Ephraim Ellsworth Flagpole",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00586977687581,
+                    40.71286785
+                ]
+            },
+            "properties": {
+                "address": "City Hall Park",
+                "name": "Jane Addams Memorial",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94903635052356,
+                    40.8172902
+                ]
+            },
+            "properties": {
+                "address": "St. Nicholas Park",
+                "name": "James Baldwin Lawn",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.88809770289842,
+                    40.74947021959154
+                ]
+            },
+            "properties": {
+                "address": "78th Street & 37th Avenue",
+                "name": "Justice for Julio March",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.24025982904143,
+                    40.53555919999999
+                ]
+            },
+            "properties": {
+                "address": "123 Androvette Street",
+                "name": "Jimmy Zappalorti Lane",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98354279430387,
+                    40.75375085
+                ]
+            },
+            "properties": {
+                "address": "Bryant Park",
+                "name": "Gertrude Stein Monument",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99484101554509,
+                    40.65808915
+                ]
+            },
+            "properties": {
+                "address": "500 25th Street",
+                "name": "Green-Wood Cemetery",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01245887722501,
+                    40.7331818
+                ]
+            },
+            "properties": {
+                "address": "Christopher Street Pier",
+                "name": "Greenwich Village Waterfront",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9721860515918,
+                    40.76575611450735
+                ]
+            },
+            "properties": {
+                "address": "Fifth Avenue & East 61st Street",
+                "name": "German-American Steuben Parade",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9805306,
+                    40.78265
+                ]
+            },
+            "properties": {
+                "address": "77th Street & Broadway",
+                "name": "Guillermo Vasquez Corner",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98697073377895,
+                    40.75607727823215
+                ]
+            },
+            "properties": {
+                "address": "West 42nd Street (between Eighth Avenue & Broadway)",
+                "name": "Gay Activists Alliance, Gay Liberation Front, and Radicalesbians Demonstration Against Police Harassment at Times Square",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00347421311828,
+                    40.7130272
+                ]
+            },
+            "properties": {
+                "address": "1 Centre Street",
+                "name": "Gay Activists Alliance Zap at the New York City Marriage Bureau",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97066131681069,
+                    40.76040930000001
+                ]
+            },
+            "properties": {
+                "address": "120 East 56th Street",
+                "name": "Gay Activists Alliance Zap at the New York Republican State Committee Headquarters",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00586977687581,
+                    40.71286785
+                ]
+            },
+            "properties": {
+                "address": "City Hall Park",
+                "name": "Gay Activists Alliance Actions at City Hall",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99792202836329,
+                    40.7201489
+                ]
+            },
+            "properties": {
+                "address": "240 Centre Street",
+                "name": "Gay Activists Alliance Protest at New York City Police Headquarters",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0083673218775,
+                    40.70557595
+                ]
+            },
+            "properties": {
+                "address": "67 Wall Street",
+                "name": "Gay Activists Alliance Zap at the New York City Taxi & Limousine Commission",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99096036226952,
+                    40.69179925
+                ]
+            },
+            "properties": {
+                "address": "65 Court Street",
+                "name": "Gay Activists Alliance Zap at the New York City Board of Examiners",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9898846,
+                    40.6910324
+                ]
+            },
+            "properties": {
+                "address": "110 Livingston Street",
+                "name": "Gay Activists Alliance Zap at the New York City Board of Education",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96888868876161,
+                    40.75236990000001
+                ]
+            },
+            "properties": {
+                "address": "Dag Hammarskjöld Plaza",
+                "name": "Dag Hammarskjöld Plaza / Katharine Hepburn Garden",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9879654739484,
+                    40.742203
+                ]
+            },
+            "properties": {
+                "address": "Madison Square Park",
+                "name": "Desi Dhamaka Protests at Madison Square Park",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.83075761821026,
+                    40.71626346850225
+                ]
+            },
+            "properties": {
+                "address": "Grand Central Parkway & 78th Avenue",
+                "name": "Demonstration Against LGBT Harassment in Flushing Meadows-Corona Park Tree Grove",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98494561504944,
+                    40.71252590567875
+                ]
+            },
+            "properties": {
+                "address": "Montgomery & Monroe Streets",
+                "name": "Lillian D. Wald Playground",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94836874345552,
+                    40.8120546
+                ]
+            },
+            "properties": {
+                "address": "St. Nicholas Houses",
+                "name": "Langston Hughes Playground",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.992737173305,
+                    40.76359461913178
+                ]
+            },
+            "properties": {
+                "address": "Tenth Avenue (West 48th & 49th Streets)",
+                "name": "Lorraine Hansberry Plaza",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9835537958032,
+                    40.77260253954865
+                ]
+            },
+            "properties": {
+                "address": "Lincoln Center Plaza",
+                "name": "Lincoln Center: Damrosch Park",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93188569972871,
+                    40.8045318
+                ]
+            },
+            "properties": {
+                "address": "Crack is Wack Playground",
+                "name": "Keith Haring & 'Crack is Wack'",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97658003637378,
+                    40.75361345
+                ]
+            },
+            "properties": {
+                "address": "200 Park Avenue",
+                "name": "Richard Lippold & 'Flight' at the Pan Am (now Met Life) Building",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.87219546886683,
+                    40.56864525
+                ]
+            },
+            "properties": {
+                "address": "Jacob Riis Park",
+                "name": "Riis Park Beach",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92434424087745,
+                    40.67559345
+                ]
+            },
+            "properties": {
+                "address": "Kingsborough Houses",
+                "name": "Richmond Barthé & 'Green Pastures: The Walls of Jericho'",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8117925755334,
+                    40.87135555
+                ]
+            },
+            "properties": {
+                "address": "Pelham Bay Park",
+                "name": "Pelham Bay Park & Orchard Beach",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01268556716757,
+                    40.70297325
+                ]
+            },
+            "properties": {
+                "address": "39 Whitehall Street",
+                "name": "Picket in Front of U.S. Army Building, First-Ever U.S. Gay Rights Protest",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9903726557606,
+                    40.72965866634682
+                ]
+            },
+            "properties": {
+                "address": "7 East 7th Street",
+                "name": "Picket at the Great Hall, Cooper Union, Second-Ever U.S. Gay Rights Protest",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96888868876161,
+                    40.75236990000001
+                ]
+            },
+            "properties": {
+                "address": "Dag Hammarskjöld Plaza",
+                "name": "Picket at Dag Hammarskjöld Plaza, Fourth-Ever U.S. Gay Rights Protest",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.84278900425835,
+                    40.74054845000001
+                ]
+            },
+            "properties": {
+                "address": "Flushing Meadows-Corona Park",
+                "name": "New York State Pavilion",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99920838039652,
+                    40.73181127308455
+                ]
+            },
+            "properties": {
+                "address": "Washington Place, west of Sixth Avenue",
+                "name": "NYC Pride March",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01272438211811,
+                    40.70190538483642
+                ]
+            },
+            "properties": {
+                "address": "Whitehall Street, south of Water & State Streets",
+                "name": "New Amsterdam 'Place of Execution'",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98354279430387,
+                    40.75375085
+                ]
+            },
+            "properties": {
+                "address": "Bryant Park",
+                "name": "NYC Dyke March",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00112159804098,
+                    40.737067
+                ]
+            },
+            "properties": {
+                "address": "St. Vincent's Triangle",
+                "name": "NYC AIDS Memorial",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.87781170513482,
+                    40.75069070896057
+                ]
+            },
+            "properties": {
+                "address": "89th Street & 37th Avenue",
+                "name": "Queens Pride Parade",
+                "category": "Public Spaces"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97603955,
+                    40.76270205
+                ]
+            },
+            "properties": {
+                "address": "26 West 56th Street",
+                "name": "Stop the Hate Radio Actions at the Spanish Broadcasting System Headquarters",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99292490164474,
+                    40.73844055
+                ]
+            },
+            "properties": {
+                "address": "11 West 17th Street",
+                "name": "GAY Newspaper Offices",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98877996106667,
+                    40.727917839372964
+                ]
+            },
+            "properties": {
+                "address": "105 Second Avenue",
+                "name": "GAY POWER Offices",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.92376810267116,
+                    40.65528135
+                ]
+            },
+            "properties": {
+                "address": "41 East 57th Street",
+                "name": "George Platt Lynes at the Pierre Matisse Gallery",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93962286979281,
+                    40.81070742541717
+                ]
+            },
+            "properties": {
+                "address": "2144 Fifth Avenue",
+                "name": "Gumby Book Studio",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98561386292096,
+                    40.7550044
+                ]
+            },
+            "properties": {
+                "address": "130 West 42nd Street",
+                "name": "Gay Activists Alliance Zap at Fidelifacts of Greater New York",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9808385,
+                    40.7709438
+                ]
+            },
+            "properties": {
+                "address": "5 West 63rd Street",
+                "name": "Gay Activists Alliance Zap at the West Side YMCA",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97913977272427,
+                    40.76268898433781
+                ]
+            },
+            "properties": {
+                "address": "1335 Sixth Avenue",
+                "name": "Gay Activists Alliance Zap at the Inner Circle Dinner at the New York Hilton Hotel",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98257652206097,
+                    40.74635635
+                ]
+            },
+            "properties": {
+                "address": "2 Park Avenue",
+                "name": "Gay Activists Alliance Zap at Harper’s Magazine Offices",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97420850309221,
+                    40.75526305
+                ]
+            },
+            "properties": {
+                "address": "277 Park Avenue",
+                "name": "Gay Activists Alliance Zap at Household Finance Corp.",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00303516165026,
+                    40.71907825
+                ]
+            },
+            "properties": {
+                "address": "58 Walker Street",
+                "name": "Cory Book Service",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.13209500685454,
+                    40.63281248074303
+                ]
+            },
+            "properties": {
+                "address": "23-29 Washington Place",
+                "name": "The Triangle Fire & Women’s Trade Union League",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96470711139678,
+                    40.770578229432516
+                ]
+            },
+            "properties": {
+                "address": "728 Park Avenue",
+                "name": "Trans Medical Care at the Office of Dr. Harry Benjamin",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.005668,
+                    40.7409011
+                ]
+            },
+            "properties": {
+                "address": "400 West 14th Street",
+                "name": "Lee G. Brewster’s Mardi Gras Boutique",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.995921,
+                    40.726662
+                ]
+            },
+            "properties": {
+                "address": "67 Bleecker Street",
+                "name": "Louis Sullivan & the Bayard-Condict Building",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97266618947464,
+                    40.67791045
+                ]
+            },
+            "properties": {
+                "address": "331 Flatbush Avenue",
+                "name": "La Papaya",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.003278,
+                    40.732349
+                ]
+            },
+            "properties": {
+                "address": "33 Barrow Street",
+                "name": "Labyris",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9907622,
+                    40.7366794
+                ]
+            },
+            "properties": {
+                "address": "31 Union Square West",
+                "name": "Antonio Lopez & Juan Ramos Studio / Juan Ramos & Paul Caranicas Residence & Studio",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99020441641889,
+                    40.75386315
+                ]
+            },
+            "properties": {
+                "address": "240 West 38th Street",
+                "name": "Isaia NYC Fashion House",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.989564066553,
+                    40.729308895327
+                ]
+            },
+            "properties": {
+                "address": "6 St. Mark's Place",
+                "name": "New St. Marks Baths",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98930983248536,
+                    40.7452919
+                ]
+            },
+            "properties": {
+                "address": "28 West 28th Street",
+                "name": "Everard Baths",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96567056410262,
+                    40.77471800484492
+                ]
+            },
+            "properties": {
+                "address": "350 Fifth Avenue",
+                "name": "Empire State Building",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9939991,
+                    40.7302074
+                ]
+            },
+            "properties": {
+                "address": "291 Mercer Street",
+                "name": "Oscar Wilde Memorial Bookshop",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00056093021009,
+                    40.7340651
+                ]
+            },
+            "properties": {
+                "address": "15 Christopher Street",
+                "name": "Oscar Wilde Memorial Bookshop",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9410061,
+                    40.8057039
+                ]
+            },
+            "properties": {
+                "address": "28 East 125th Street",
+                "name": "Mt. Morris Baths",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96538844285183,
+                    40.75996245
+                ]
+            },
+            "properties": {
+                "address": "246 East 58th Street",
+                "name": "Modulightor Building",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99473220126711,
+                    40.7273799
+                ]
+            },
+            "properties": {
+                "address": "676 Broadway",
+                "name": "Keith Haring Studio & Foundation",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99365120191533,
+                    40.69481625
+                ]
+            },
+            "properties": {
+                "address": "141 Montague Street",
+                "name": "Brooklyn Heights Press Offices",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9725449,
+                    40.7917447
+                ]
+            },
+            "properties": {
+                "address": "201 West 92nd Street",
+                "name": "Womanbooks",
+                "category": "Stores & Businesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0014615,
+                    40.7343883
+                ]
+            },
+            "properties": {
+                "address": "154 West 10th Street",
+                "name": "Djuna Books",
+                "category": "Stores & Businesses"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}
