@@ -21,8 +21,9 @@ function fetchAndDecompressGeoJSON(url) {
 var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/light-v10',
-    center: [-98, 38], // Center of the US
-    zoom: 4
+    center: [-98, 38.88],
+    minZoom: 2,
+    zoom: 3
 });
 
 // 确保 `map.load` 事件完成后再执行 `fetchAndDecompressGeoJSON`
@@ -40,14 +41,14 @@ map.on('load', function () {
         'type': 'fill',
         'source': 'states',
         'paint': {
-            'fill-color': ['interpolate', ['linear'],
-                ['coalesce', ['get', 'same_sex_ratio'], 0], // 处理 null 值
-                0, '#edf8fb',
-                0.0075, '#b2e2e2',
-                0.015, '#66c2a4',
-                0.0225, '#2ca25f',
-                0.03, '#006d2c'
-            ],
+    'fill-color': ['interpolate', ['linear'],
+        ['coalesce', ['get', 'same_sex_ratio'], 0], // 处理 null 值
+        0.005, '#ffebee',  // 非常低（接近 0）
+        0.01, '#ffbbca',   // 低
+        0.015, '#fc7899',  // 中等
+        0.02, '#f13f80',   // 偏高
+        0.03, '#b0003a'    // 最高
+    ],
             'fill-opacity': 0.7
         },
         'maxzoom': 6
@@ -80,11 +81,11 @@ map.on('load', function () {
                 'paint': {
                     'fill-color': ['interpolate', ['linear'],
                         ['coalesce', ['get', 'same_sex_ratio'], 0], // 处理 null 值
-                        0, '#edf8fb',
-                        0.025, '#b2e2e2',
-                        0.05, '#66c2a4',
-                        0.075, '#2ca25f',
-                        0.1, '#006d2c'
+                        0.0025, '#ffebee', // 非常低
+                        0.0075, '#ffbbca', // 低
+                        0.015, '#fc7899',  // 中等
+                        0.03, '#f13f80',   // 偏高
+                        0.05, '#b0003a'    // 最高
                     ],
                     'fill-opacity': 0.7
                 },
@@ -162,19 +163,21 @@ document.body.appendChild(legend);
 // 更新 legend 的函数
 function updateLegend(zoomLevel) {
     if (zoomLevel < 6) {
+        // State 级别
         legend.innerHTML = `<strong style='font-size:12px;'>Same-Sex Ratio (State)</strong><br>
-            <div style='background:#edf8fb; width:15px; height:15px; display:inline-block;'></div> 0-0.75%<br>
-            <div style='background:#b2e2e2; width:15px; height:15px; display:inline-block;'></div> 0.75%-1.50%<br>
-            <div style='background:#66c2a4; width:15px; height:15px; display:inline-block;'></div> 1.50%-2.25%<br>
-            <div style='background:#2ca25f; width:15px; height:15px; display:inline-block;'></div> 2.25%-3.00%<br>
-            <div style='background:#006d2c; width:15px; height:15px; display:inline-block;'></div> 3.00%+<br>`;
+            <div style='background:#ffebee; width:15px; height:15px; display:inline-block;'></div> 0.5%-1.0%<br>
+            <div style='background:#ffbbca; width:15px; height:15px; display:inline-block;'></div> 1.0%-1.5%<br>
+            <div style='background:#fc7899; width:15px; height:15px; display:inline-block;'></div> 1.5%-2.0%<br>
+            <div style='background:#f13f80; width:15px; height:15px; display:inline-block;'></div> 2.0%-3.0%<br>
+            <div style='background:#b0003a; width:15px; height:15px; display:inline-block;'></div> 3.0%+<br>`;
     } else {
+        // County 级别
         legend.innerHTML = `<strong style='font-size:12px;'>Same-Sex Ratio (County)</strong><br>
-            <div style='background:#edf8fb; width:15px; height:15px; display:inline-block;'></div> 0-2.5%<br>
-            <div style='background:#b2e2e2; width:15px; height:15px; display:inline-block;'></div> 2.5%-5.0%<br>
-            <div style='background:#66c2a4; width:15px; height:15px; display:inline-block;'></div> 5.0%-7.5%<br>
-            <div style='background:#2ca25f; width:15px; height:15px; display:inline-block;'></div> 7.5%-10.0%<br>
-            <div style='background:#006d2c; width:15px; height:15px; display:inline-block;'></div> 10.0%+<br>`;
+            <div style='background:#ffebee; width:15px; height:15px; display:inline-block;'></div> 0.25%-0.75%<br>
+            <div style='background:#ffbbca; width:15px; height:15px; display:inline-block;'></div> 0.75%-1.5%<br>
+            <div style='background:#fc7899; width:15px; height:15px; display:inline-block;'></div> 1.5%-3.0%<br>
+            <div style='background:#f13f80; width:15px; height:15px; display:inline-block;'></div> 3.0%-5.0%<br>
+            <div style='background:#b0003a; width:15px; height:15px; display:inline-block;'></div> 5.0%+<br>`;
     }
 }
 
@@ -187,48 +190,63 @@ map.on('zoom', function () {
 updateLegend(map.getZoom());
 
 
-    // Click event to show tooltip
-    var tooltip = document.createElement('div');
-    tooltip.id = 'tooltip';
-    tooltip.style.position = 'absolute';
-    tooltip.style.background = 'white';
-    tooltip.style.padding = '5px';
-    tooltip.style.border = '1px solid black';
-    tooltip.style.display = 'none';
-    tooltip.style.fontSize = '10px'; // Reduced font size
-    tooltip.style.textAlign = 'left';
-    document.body.appendChild(tooltip);
+// Tooltip 创建
+var tooltip = document.createElement('div');
+tooltip.id = 'tooltip';
+tooltip.style.position = 'absolute';
+tooltip.style.background = 'white';
+tooltip.style.padding = '5px';
+tooltip.style.border = '1px solid black';
+tooltip.style.display = 'none';
+tooltip.style.fontSize = '10px';
+tooltip.style.textAlign = 'left';
+tooltip.style.boxShadow = '2px 2px 10px rgba(0,0,0,0.2)';
+tooltip.style.borderRadius = '5px';
 
-    map.on('click', function (e) {
-        var features = map.queryRenderedFeatures(e.point, {
-            layers: ['states-layer', 'counties-layer']
-        });
-    
-        if (features.length) {
-            var props = features[0].properties;
-    
-            // 格式化数据
-            function formatNumber(num) {
-                return num ? parseInt(num).toLocaleString() : "No Data";
-            }
-    
-            function formatPercentage(num) {
-                return num ? (parseFloat(num) * 100).toFixed(2) + "%" : "No Data";
-            }
-    
-            tooltip.innerHTML = `<strong style='font-size:14px;'>${props.NAME_x}</strong><br>
-                Opposite-Sex Spouse: ${formatNumber(props.B09019_010E)}<br>
-                Same-Sex Spouse: ${formatNumber(props.B09019_011E)}<br>
-                Opposite-Sex Partner: ${formatNumber(props.B09019_012E)}<br>
-                Same-Sex Partner: ${formatNumber(props.B09019_013E)}<br>
-                <strong>Same-Sex Ratio:</strong> ${formatPercentage(props.same_sex_ratio)}`;
-    
-            tooltip.style.left = e.originalEvent.pageX + 10 + 'px';
-            tooltip.style.top = e.originalEvent.pageY + 10 + 'px';
-            tooltip.style.display = 'block';
-        } else {
-            tooltip.style.display = 'none';
+// 关闭按钮
+var closeButton = document.createElement('span');
+closeButton.innerHTML = '&times;';
+closeButton.style.position = 'absolute';
+closeButton.style.top = '3px';
+closeButton.style.right = '5px';
+closeButton.style.cursor = 'pointer';
+closeButton.style.fontSize = '14px';
+closeButton.onclick = function () {
+    tooltip.style.display = 'none';
+};
+
+tooltip.appendChild(closeButton);
+document.body.appendChild(tooltip);
+
+map.on('click', function (e) {
+    var features = map.queryRenderedFeatures(e.point, {
+        layers: ['states-layer', 'counties-layer']
+    });
+
+    if (features.length) {
+        var props = features[0].properties;
+
+        function formatNumber(num) {
+            return num ? parseInt(num).toLocaleString() : "No Data";
         }
-    });    
+
+        function formatPercentage(num) {
+            return num ? (parseFloat(num) * 100).toFixed(2) + "%" : "No Data";
+        }
+
+        tooltip.innerHTML = `<strong style='font-size:14px;'>${props.NAME_x}</strong><br>
+            Opposite-Sex Spouse: ${formatNumber(props.B09019_010E)}<br>
+            Same-Sex Spouse: ${formatNumber(props.B09019_011E)}<br>
+            Opposite-Sex Partner: ${formatNumber(props.B09019_012E)}<br>
+            Same-Sex Partner: ${formatNumber(props.B09019_013E)}<br>
+            <strong>Same-Sex Ratio:</strong> ${formatPercentage(props.same_sex_ratio)}`;
+        
+        tooltip.appendChild(closeButton); // 重新附加关闭按钮
+        
+        tooltip.style.left = e.originalEvent.pageX + 10 + 'px';
+        tooltip.style.top = e.originalEvent.pageY + 10 + 'px';
+        tooltip.style.display = 'block';
+    }
+});
 });
 

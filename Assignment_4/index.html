@@ -53,35 +53,46 @@
     </style>
 </head>
 <body>
-    <h1>Mapping Same-Sex Household Ratio in the US</h1>
+    <h1>Mapping Same-Sex Household Ratio in the US</h1> 
+<p>
+    This interactive map visualizes the proportion of same-sex cohabiting partners relative to opposite-sex partners across the United States. 
+    The dataset used is from the <strong>American Community Survey (ACS) 2023, Table B09019</strong>, which includes household types by relationship status at both the state and county levels.
+</p>
+<p>
+    The goal of this map is to analyze regional patterns in the distribution of LGBTQ+ households. By providing two different geographic scales, 
+    this visualization allows users to identify broad state-level trends while also examining more granular patterns at the county level.
+    This approach can help reveal areas with higher concentrations of same-sex households, which may suggest social, economic, or political factors influencing LGBTQ+ inclusivity.
+</p>
+<p>
+    <strong>Methodology:</strong> The same-sex ratio is calculated using data from the <strong>ACS Table B09019</strong>, which categorizes households based on partnership type. 
+    The specific variables used in this calculation are:
+            B09019_010E(Opposite-Sex spouses)
+            B09019_011E(Same-Sex Spouse)
+            B09019_012E(Opposite-Sex Unmarried Partner)
+            B09019_013E(Same-Sex Unmarried Partner)
     <p>
-        This interactive map visualizes the proportion of same-sex cohabiting partners relative to opposite-sex partners across the United States. 
-        The dataset used is from the <strong>American Community Survey (ACS) 2023, Table B09019</strong>, which includes household types by relationship status.
-    </p>
-    <p>
-        This map highlights regional differences in LGBTQ+ family distributions. At the state level, broad patterns emerge, while at the county level, 
-        more localized trends become visible. This helps us understand which areas may be more inclusive or have a higher presence of LGBTQ+ families.
-    </p>
-    <p>
-        <strong>Methodology:</strong> The same-sex ratio is calculated as follows:
+        The same-sex ratio is calculated as follows:
         <br>
         <code>(Same-Sex Spouse + Same-Sex Unmarried Partner) / (Opposite-Sex Spouse + Opposite-Sex Unmarried Partner)</code>
     </p>
-    <p>
-        Zoom in to explore county-level patterns, and zoom out for a broader state-level overview.
-    </p>
+</p>
 
     <div id="map"></div>
     <p>
         <strong>Interactive Features:</strong> 
         <ul>
-            <p><strong>-Zooming:</strong> The map dynamically updates between state-level and county-level data. Zooming in past level 6 reveals county-level details, while zooming out shows broader state-level trends.</li>
-            <p><strong>-Hover Effect:</strong> Moving the mouse over a region highlights its border, making it easier to see individual states or counties.</li>
-            <p><strong>-Click for Details:</strong> Clicking on a state or county opens a tooltip displaying specific household data, including the number of same-sex and opposite-sex spouses and partners, along with the calculated same-sex ratio.</li>
-            <p><strong>-Legend Updates:</strong> The legend automatically adjusts to reflect the data being displayed, switching between state and county-level classifications.</li>
-            <p><strong>-Tooltip Auto-Hide:</strong> The tooltip disappears when clicking elsewhere on the map or moving the mouse to a different area, ensuring a clean and intuitive experience.</li>
+            <p><strong>- Zooming:</strong> The map dynamically updates between state-level and county-level data. Zooming in past level 6 reveals county-level details, while zooming out shows broader state-level trends. This allows users to explore both large-scale and localized patterns in same-sex household distribution.</p>
+            <p><strong>- Hover Effect:</strong> Moving the mouse over a region highlights its border, making it easier to distinguish individual states or counties.</p>
+            <p><strong>- Click for Details:</strong> Clicking on a state or county opens a tooltip displaying specific household data, including the number of same-sex and opposite-sex spouses and partners, along with the calculated same-sex ratio.</p>
+            <p><strong>- Legend Updates:</strong> The legend automatically adjusts based on the zoom level, switching between state and county classifications to ensure the scale of data representation remains clear.</p>
+            <p><strong>- Data Classification Approach:</strong> 
+                    At the state level, the color scheme is based on <strong>equal interval classification</strong>, ensuring that national trends are represented with smooth color transitions.
+                    At the county level, the classification follows a <strong>quantile-based approach</strong>, ensuring that local variations are more visible despite data being more dispersed.
+                This method was chosen to maintain consistent visual interpretation across scales—state-level data emphasizes broad regional trends, while county-level data highlights finer, localized differences.</p>
         </ul>
     </p>
+    
+
     <div class="options">
         <div class="inline-options">
             <a href="../Assignment_2/index.html">The colorful book</a>
