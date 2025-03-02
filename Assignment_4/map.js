@@ -43,11 +43,11 @@ map.on('load', function () {
         'paint': {
     'fill-color': ['interpolate', ['linear'],
         ['coalesce', ['get', 'same_sex_ratio'], 0], // 处理 null 值
-        0.005, '#ffebee',  // 非常低（接近 0）
-        0.01, '#ffbbca',   // 低
-        0.015, '#fc7899',  // 中等
-        0.02, '#f13f80',   // 偏高
-        0.03, '#b0003a'    // 最高
+        0.0025, '#ffebee',
+        0.0075, '#ffbbca',
+        0.015, '#fc7899',
+        0.03, '#f13f80',
+        0.05, '#b0003a'
     ],
             'fill-opacity': 0.7
         },
@@ -162,23 +162,14 @@ document.body.appendChild(legend);
 
 // 更新 legend 的函数
 function updateLegend(zoomLevel) {
-    if (zoomLevel < 6) {
-        // State 级别
-        legend.innerHTML = `<strong style='font-size:12px;'>Same-Sex Ratio (State)</strong><br>
-            <div style='background:#ffebee; width:15px; height:15px; display:inline-block;'></div> 0.5%-1.0%<br>
-            <div style='background:#ffbbca; width:15px; height:15px; display:inline-block;'></div> 1.0%-1.5%<br>
-            <div style='background:#fc7899; width:15px; height:15px; display:inline-block;'></div> 1.5%-2.0%<br>
-            <div style='background:#f13f80; width:15px; height:15px; display:inline-block;'></div> 2.0%-3.0%<br>
-            <div style='background:#b0003a; width:15px; height:15px; display:inline-block;'></div> 3.0%+<br>`;
-    } else {
-        // County 级别
-        legend.innerHTML = `<strong style='font-size:12px;'>Same-Sex Ratio (County)</strong><br>
-            <div style='background:#ffebee; width:15px; height:15px; display:inline-block;'></div> 0.25%-0.75%<br>
-            <div style='background:#ffbbca; width:15px; height:15px; display:inline-block;'></div> 0.75%-1.5%<br>
-            <div style='background:#fc7899; width:15px; height:15px; display:inline-block;'></div> 1.5%-3.0%<br>
-            <div style='background:#f13f80; width:15px; height:15px; display:inline-block;'></div> 3.0%-5.0%<br>
-            <div style='background:#b0003a; width:15px; height:15px; display:inline-block;'></div> 5.0%+<br>`;
-    }
+    let levelLabel = zoomLevel < 6 ? "(State)" : "(County)";
+    
+    legend.innerHTML = `<strong style='font-size:12px;'>Same-Sex Ratio ${levelLabel}</strong><br>
+        <div style='background:#ffebee; width:15px; height:15px; display:inline-block;'></div> 0.25%-0.75%<br>
+        <div style='background:#ffbbca; width:15px; height:15px; display:inline-block;'></div> 0.75%-1.5%<br>
+        <div style='background:#fc7899; width:15px; height:15px; display:inline-block;'></div> 1.5%-3.0%<br>
+        <div style='background:#f13f80; width:15px; height:15px; display:inline-block;'></div> 3.0%-5.0%<br>
+        <div style='background:#b0003a; width:15px; height:15px; display:inline-block;'></div> 5.0%+<br>`;
 }
 
 // 监听地图缩放事件，动态更新 legend
